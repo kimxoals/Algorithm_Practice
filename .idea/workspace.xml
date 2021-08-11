@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="67b8e57d-4548-4d4f-9421-a4d66a6731b9" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ewsEetHXXbSt9JTSpAfEB4F7SH" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/10" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="run.code.analysis.last.selected.profile" value="aDefault" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/09" />
+      <recent name="$PROJECT_DIR$/08" />
+      <recent name="$PROJECT_DIR$/07" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/10" />
+      <recent name="$PROJECT_DIR$/09" />
+      <recent name="$PROJECT_DIR$/08" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.quicksort">
+    <configuration name="namu_1015" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="AlgorithmStudy" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/10" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/10/namu_1015.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="quicksort" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="AlgorithmStudy" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/quicksort.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="sorting" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="AlgorithmStudy" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/sorting.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="AlgorithmStudy" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="AlgorithmStudy" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.quicksort" />
+        <item itemvalue="Python.test2" />
+        <item itemvalue="Python.test" />
+        <item itemvalue="Python.sorting" />
+        <item itemvalue="Python.namu_1015" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="67b8e57d-4548-4d4f-9421-a4d66a6731b9" name="Default Changelist" comment="" />
+      <created>1595243879674</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1595243879674</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1059" height="409" key="GridCell.Tab.0.bottom" timestamp="1614021606175">
+      <screen x="1920" y="-201" width="1080" height="1895" />
+    </state>
+    <state width="1059" height="155" key="GridCell.Tab.0.bottom/-1080.-219.1080.1895/0.25.1920.1005@0.25.1920.1005" timestamp="1610952502174" />
+    <state width="1419" height="155" key="GridCell.Tab.0.bottom/0.25.1440.825@0.25.1440.825" timestamp="1610931247254" />
+    <state width="1899" height="199" key="GridCell.Tab.0.bottom/0.25.1920.1003/1920.-201.1080.1895@0.25.1920.1003" timestamp="1612898334050" />
+    <state width="1059" height="409" key="GridCell.Tab.0.bottom/0.25.1920.1003/1920.-201.1080.1895@1920.-201.1080.1895" timestamp="1614021606175" />
+    <state width="1059" height="155" key="GridCell.Tab.0.bottom/0.25.1920.1005/-1080.-219.1080.1895@0.25.1920.1005" timestamp="1610957081069" />
+    <state width="1059" height="423" key="GridCell.Tab.0.bottom/0.25.1920.1055/1920.-201.1080.1843@1920.-201.1080.1843" timestamp="1613990395422" />
+    <state width="1059" height="409" key="GridCell.Tab.0.center" timestamp="1614021606175">
+      <screen x="1920" y="-201" width="1080" height="1895" />
+    </state>
+    <state width="1059" height="155" key="GridCell.Tab.0.center/-1080.-219.1080.1895/0.25.1920.1005@0.25.1920.1005" timestamp="1610952502173" />
+    <state width="1419" height="155" key="GridCell.Tab.0.center/0.25.1440.825@0.25.1440.825" timestamp="1610931247253" />
+    <state width="1899" height="199" key="GridCell.Tab.0.center/0.25.1920.1003/1920.-201.1080.1895@0.25.1920.1003" timestamp="1612898334049" />
+    <state width="1059" height="409" key="GridCell.Tab.0.center/0.25.1920.1003/1920.-201.1080.1895@1920.-201.1080.1895" timestamp="1614021606175" />
+    <state width="1059" height="155" key="GridCell.Tab.0.center/0.25.1920.1005/-1080.-219.1080.1895@0.25.1920.1005" timestamp="1610957081068" />
+    <state width="1059" height="423" key="GridCell.Tab.0.center/0.25.1920.1055/1920.-201.1080.1843@1920.-201.1080.1843" timestamp="1613990395421" />
+    <state width="1059" height="409" key="GridCell.Tab.0.left" timestamp="1614021606174">
+      <screen x="1920" y="-201" width="1080" height="1895" />
+    </state>
+    <state width="1059" height="155" key="GridCell.Tab.0.left/-1080.-219.1080.1895/0.25.1920.1005@0.25.1920.1005" timestamp="1610952502172" />
+    <state width="1419" height="155" key="GridCell.Tab.0.left/0.25.1440.825@0.25.1440.825" timestamp="1610931247253" />
+    <state width="1899" height="199" key="GridCell.Tab.0.left/0.25.1920.1003/1920.-201.1080.1895@0.25.1920.1003" timestamp="1612898334049" />
+    <state width="1059" height="409" key="GridCell.Tab.0.left/0.25.1920.1003/1920.-201.1080.1895@1920.-201.1080.1895" timestamp="1614021606174" />
+    <state width="1059" height="155" key="GridCell.Tab.0.left/0.25.1920.1005/-1080.-219.1080.1895@0.25.1920.1005" timestamp="1610957081068" />
+    <state width="1059" height="423" key="GridCell.Tab.0.left/0.25.1920.1055/1920.-201.1080.1843@1920.-201.1080.1843" timestamp="1613990395421" />
+    <state width="1059" height="409" key="GridCell.Tab.0.right" timestamp="1614021606175">
+      <screen x="1920" y="-201" width="1080" height="1895" />
+    </state>
+    <state width="1059" height="155" key="GridCell.Tab.0.right/-1080.-219.1080.1895/0.25.1920.1005@0.25.1920.1005" timestamp="1610952502174" />
+    <state width="1419" height="155" key="GridCell.Tab.0.right/0.25.1440.825@0.25.1440.825" timestamp="1610931247254" />
+    <state width="1899" height="199" key="GridCell.Tab.0.right/0.25.1920.1003/1920.-201.1080.1895@0.25.1920.1003" timestamp="1612898334050" />
+    <state width="1059" height="409" key="GridCell.Tab.0.right/0.25.1920.1003/1920.-201.1080.1895@1920.-201.1080.1895" timestamp="1614021606175" />
+    <state width="1059" height="155" key="GridCell.Tab.0.right/0.25.1920.1005/-1080.-219.1080.1895@0.25.1920.1005" timestamp="1610957081068" />
+    <state width="1059" height="423" key="GridCell.Tab.0.right/0.25.1920.1055/1920.-201.1080.1843@1920.-201.1080.1843" timestamp="1613990395422" />
+    <state x="0" y="25" width="1440" height="825" key="com.intellij.ide.util.TipDialog" timestamp="1618356243384">
+      <screen x="0" y="25" width="1920" height="1003" />
+    </state>
+    <state x="0" y="25" width="1440" height="825" key="com.intellij.ide.util.TipDialog/0.25.1440.825@0.25.1440.825" timestamp="1610928522190" />
+    <state x="0" y="25" key="com.intellij.ide.util.TipDialog/0.25.1920.1003/1920.-201.1080.1895@0.25.1920.1003" timestamp="1618356243384" />
+    <state x="960" y="25" width="960" height="1005" key="com.intellij.ide.util.TipDialog/0.25.1920.1005/-1080.-219.1080.1895@0.25.1920.1005" timestamp="1610355541872" />
+    <state x="625" y="247" width="670" height="676" key="search.everywhere.popup" timestamp="1610952303158">
+      <screen x="0" y="25" width="1920" height="1005" />
+    </state>
+    <state x="625" y="247" width="670" height="676" key="search.everywhere.popup/-1080.-219.1080.1895/0.25.1920.1005@0.25.1920.1005" timestamp="1610952303158" />
+    <state x="625" y="247" width="670" height="676" key="search.everywhere.popup/0.25.1920.1005/-1080.-219.1080.1895@0.25.1920.1005" timestamp="1610355561708" />
+  </component>
+</project>
